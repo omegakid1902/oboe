@@ -56,7 +56,8 @@ def write(text, file):
 
 
 def find_subdirs_recursively(root):
-    subfolders = [f.path for f in os.scandir(root) if f.is_dir() and "." not in f.path]
+    absoluteRootPath = os.path.abspath(root)
+    subfolders = [f.path for f in os.scandir(absoluteRootPath) if f.is_dir() and "." not in f.path]
     for dirname in subfolders:
         subfolders.extend(find_subdirs_recursively(dirname))
 
