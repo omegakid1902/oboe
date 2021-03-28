@@ -33,6 +33,13 @@ class Link:
             self.content = self.get_content()
 
         self.slug = "/".join(list(map(lambda x: slug_case(x), text.split("/"))))
+        if hasattr(self, "blockref"):
+            ref = getattr(self, "blockref")
+            # the slug ends up with the block ref id appended
+            # eg. my-noteBLOCKID
+            # this breaks blockref links
+            # so we need to remove it
+            self.slug = re.sub("%s$" % ref, "", self.slug)
 
 
     def get_content(self):
