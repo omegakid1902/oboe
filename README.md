@@ -1,6 +1,6 @@
-<div align="center"><sup><b>NOTE</b>: <code>obsidian-html</code> has been renamed to <code>oboe</code> in order to gradually decouple it from Obsidian. Apologies for the inconveniences this may cause. If you've already installed <code>obsidian-html</code>, you can uninstall it and follow the <a href="#installation">installation instructions</a> for <code>oboe</code> below. Be sure to also update your GitHub Actions.</sup></div>
+## THIS REPO IS NOT MAINTAINED
 
-<br>
+Sadly I can not maintain Oboe anymore. For a great alternative, have a look at [srid/neuron](https://github.com/srid/neuron/) for you static file generation. If anyone would like to fork Oboe and maintain it themselves, send me an email at <km@aasrud> and I will make sure people are redirected.
 
 <div align="center"><h1>Oboe</h1></div>
 
