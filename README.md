@@ -1,6 +1,6 @@
 ## THIS REPO IS NOT MAINTAINED
 
-Sadly I can not maintain Oboe anymore. For a great alternative, have a look at [srid/neuron](https://github.com/srid/neuron/) for you static file generation. If anyone would like to fork Oboe and maintain it themselves, send me an email at <km@aasrud> and I will make sure people are redirected.
+Sadly I can not maintain Oboe anymore. For a great alternative, have a look at [srid/neuron](https://github.com/srid/neuron/) for you static file generation. If anyone would like to fork Oboe and maintain it themselves, send me an email at km(at)aasrud.com and I will make sure people are redirected.
 
 <div align="center"><h1>Oboe</h1></div>
 
