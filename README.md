@@ -1,6 +1,6 @@
 ## THIS REPO IS NOT MAINTAINED
 
-Sadly I can not maintain Oboe anymore. For a great alternative, have a look at [srid/neuron](https://github.com/srid/neuron/) for you static file generation. If anyone would like to fork Oboe and maintain it themselves, send me an email at km(at)aasrud.com and I will make sure people are redirected.
+**It will soon get deleted. I am currently working on a new and very much improved static site generator for Zettelkasten that works very well with Obsidian: [mdzk](https://github.com/mdzk-rs/mdzk). It is agnostic with regards to text editors, so it will work just as well with any other editor that supports wiki links. If you like Oboe, be sure to give [mdzk](https://github.com/mdzk-rs/mdzk) a try.**
 
 <div align="center"><h1>Oboe</h1></div>
 
